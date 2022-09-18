@@ -1,0 +1,132 @@
+    HOTEL MANAGEMENT
+    *****************
+WELCOME ABC HOTEL
+***************
+since:2002-2022
+our management is 20 years old to running successfully with our love and support
+our management is too good for quality
+And  amount quantity will be variable for you
+**Take your seat sir/mam**
+**what do you want sir/mam**
+________________________________________________________________
+***GRAND OPENING OFFER***
+***only for/- 17,18,19.9.22
+['1.biriyani+biriyani', '2.biriyani+chilly_65', '3.biriyani+chilly_65+cooldrinks']
+enter your offer 1,2,or 3:1
+enter your offer 1,2,or 3:1
+_________________________________________________________________
+#MENU CARD#
+^^^^^^^^^^^
+(1, 'chicken_biriyani', 120)
+(2, 'mutton_biriyani', 210)
+(3, 'aloo_gobi_masala', 180)
+(4, 'pannerbuttermasala', 185)
+(5, 'pannercurry', 120)
+(6, 'malai_kofta', 100)
+(7, 'mutterpanner', 120)
+(8, 'mix_veg', 100)
+(9, 'kaju_curry', 130)
+(10, 'aloo_tomato', 120)
+['online_order', 'home_parsel', 'table_place']
+it is available:online_order
+you can order this number:5154784
+enter your address:xxx
+**you can choose your order please**
+**With in one hour your order will delivered
+['1.chicken_biriyani', '2.mutton_biriyani', '3.aloo_gobi_masala', '4.pannerbuttermasala', '5.pannercurry', '6.malai_kofta', '7.mutterpanner', '8.mix_veg', '9.kaju_curry', '10.aloo_tomato']
+your order pls:aloo_gobi_masala
+your order aloo_gobi_masala in menu
+_____________________________________________________________________
+you can give the feed back in 5star rating
+******************************************
+                * * * * *
+ ENTER YOUR FEED BACK:good
+Thank you for your feed back
+**** AND THANK YOU FOR VISTING OUR HOTEL*****
+PS C:\visual studio code> & "C:/Program Files/Python310/python.exe" "c:/python final projects/project2/hotel management.py"      
+                HOTEL MANAGEMENT
+                *****************
+WELCOME ABC HOTEL
+***************
+since:2002-2022
+our management is 20 years old to running successfully with our love and support
+our management is too good for quality
+And  amount quantity will be variable for you
+**Take your seat sir/mam**
+**what do you want sir/mam**
+________________________________________________________________
+***only for/- 17,18,19.9.22
+['1.biriyani+biriyani', '2.biriyani+chilly_65', '3.biriyani+chilly_65+cooldrinks']
+enter your offer 1,2,or 3:2
+receive your food and enjoy
+_________________________________________________________________
+#MENU CARD#
+^^^^^^^^^^^
+(1, 'chicken_biriyani', 120)
+(2, 'mutton_biriyani', 210)
+(3, 'aloo_gobi_masala', 180)
+(4, 'pannerbuttermasala', 185)
+(5, 'pannercurry', 120)
+(6, 'malai_kofta', 100)
+(7, 'mutterpanner', 120)
+(8, 'mix_veg', 100)
+(9, 'kaju_curry', 130)
+(10, 'aloo_tomato', 120)
+['online_order', 'home_parsel', 'table_place']
+it is available:home_parsel
+['1.chicken_biriyani', '2.mutton_biriyani', '3.aloo_gobi_masala', '4.pannerbuttermasala', '5.pannercurry', '6.malai_kofta', '7.mutterpanner', '8.mix_veg', '9.kaju_curry', '10.aloo_tomato']
+choose menu list:kaju_curry
+your order kaju_curry in menu
+_____________________________________________________________________
+you can give the feed back in 5star rating
+******************************************
+                * * * * *
+ ENTER YOUR FEED BACK:****
+Thank you for your feed back
+**** AND THANK YOU FOR VISTING OUR HOTEL*****
+PS C:\visual studio code> & "C:/Program Files/Python310/python.exe" "c:/python final projects/project2/hotel management.py"      
+                HOTEL MANAGEMENT
+                *****************
+WELCOME ABC HOTEL
+***************
+since:2002-2022
+our management is 20 years old to running successfully with our love and support
+our management is too good for quality
+And  amount quantity will be variable for you
+**Take your seat sir/mam**
+**what do you want sir/mam**
+________________________________________________________________
+***GRAND OPENING OFFER***
+***only for/- 17,18,19.9.22
+['1.biriyani+biriyani', '2.biriyani+chilly_65', '3.biriyani+chilly_65+cooldrinks']
+enter your offer 1,2,or 3:3
+your combo offer
+enjoy :)
+_________________________________________________________________
+#MENU CARD#
+^^^^^^^^^^^
+(1, 'chicken_biriyani', 120)
+(2, 'mutton_biriyani', 210)
+(3, 'aloo_gobi_masala', 180)
+(4, 'pannerbuttermasala', 185)
+(5, 'pannercurry', 120)
+(6, 'malai_kofta', 100)
+(7, 'mutterpanner', 120)
+(8, 'mix_veg', 100)
+(9, 'kaju_curry', 130)
+(10, 'aloo_tomato', 120)
+['online_order', 'home_parsel', 'table_place']
+it is available:table_place
+['1.chicken_biriyani', '2.mutton_biriyani', '3.aloo_gobi_masala', '4.pannerbuttermasala', '5.pannercurry', '6.malai_kofta', '7.mutterpanner', '8.mix_veg', '9.kaju_curry', '10.aloo_tomato']
+your order pls:mix_veg
+your order mix_veg in menu
+if you want any other item mam/sir
+enter your ans:yes
+sure sir/mam you can order again
+_____________________________________________________________________
+you can give the feed back in 5star rating
+******************************************
+                * * * * *
+ ENTER YOUR FEED BACK:good
+Thank you for your feed back
+**** AND THANK YOU FOR VISTING OUR HOTEL*****
